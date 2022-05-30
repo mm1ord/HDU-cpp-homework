@@ -1,0 +1,4 @@
+﻿  class_mystring.cpp
+C:\Users\admin\Desktop\我的大学\c++\第一次上机\class_mystring\class_mystring\class_mystring.cpp(15,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Desktop\我的大学\c++\第一次上机\class_mystring\class_mystring\class_mystring.cpp(19,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Desktop\我的大学\c++\第一次上机\class_mystring\class_mystring\class_mystring.cpp(20,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
